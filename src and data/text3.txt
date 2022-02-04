@@ -1,0 +1,2 @@
+The Boyer-Moore Algorithm is considered the most efficient string matching algorithm.
+The Boyer-Moore method is considered the most efficient string matching method.

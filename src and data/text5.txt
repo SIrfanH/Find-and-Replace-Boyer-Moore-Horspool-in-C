@@ -1,0 +1,2 @@
+In the worst-case the performance of the Boyer-Moore-Horspool algorithm is O(mn), where m is the length of the substring and n is the length of the string.
+In the worst-case the performance of the Boyer-Moore-Horspool algorithm is O(mn), where m is the size of the substring and n is the size of the string.
