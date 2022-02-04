@@ -1,1 +1,1 @@
-# String-Find-and-Replace-Using-Boyer-Moore-Horspool-Algorithm-in-C-Programming-language
+# Find-and-Replace-Boyer-Moore-Horspool-in-C
