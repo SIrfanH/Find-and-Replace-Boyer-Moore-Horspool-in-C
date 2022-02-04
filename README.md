@@ -10,4 +10,6 @@ The passage is read from the file in memory using an array. All the point that t
 
 # Report
 After the program performs the replacement a report detailing the number of replacements done and their positions is printed on screen.<br/>
+<br/>
+<br/>
 ![Capture6 (2)](https://user-images.githubusercontent.com/49107892/152588387-fc4c70b8-240d-4495-bf48-bd90edf6e557.PNG)
