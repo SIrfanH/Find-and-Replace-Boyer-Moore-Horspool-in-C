@@ -9,5 +9,5 @@ The user has the ability to select the word or phrase that will be searched, the
 The passage is read from the file in memory using an array. All the point that the phrase occurs will be found and replaced with the new phrase. The replacement is performed inplace without using extra array. Finally the new passage is written back to the file.
 
 # Report
-After the program performs the replacement a report detailing the number of replacements done and their positions is printed on screen.
+After the program performs the replacement a report detailing the number of replacements done and their positions is printed on screen.<br/>
 ![Capture6 (2)](https://user-images.githubusercontent.com/49107892/152588387-fc4c70b8-240d-4495-bf48-bd90edf6e557.PNG)
